@@ -3,4 +3,3 @@ name = "bolt"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-07-01"
 pages_build_output_dir = "./build/client"
-AI_API_KEY = "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"
